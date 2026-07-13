@@ -1,38 +1,54 @@
-# Hi there, I'm Mohsina Alima 👋
+# Hi, I'm Mohsina Alima 👋
 
-Passionate developer focused on building efficient, scalable, and user-centric applications. Exploring full-stack development, automation, and open source. Let’s build something cool.
+## Full Stack Engineer • AI Engineer
 
-## 🚀 Tech Stack
-
-- **Languages:** JavaScript, C, C++
-- **Frontend:** HTML, CSS, Tailwind CSS, React
-- **Backend:** Node.js
-- **Database:** MongoDB
-
-## 🌱 Currently
-
-- Exploring new technologies in full-stack development
-- Learning more about automation and open source contributions
-
-## 📫 Let’s Connect
-
-Feel free to reach out if you want to collaborate or just chat about tech!
+I'm a B.Tech Computer Science student passionate about building scalable web applications, AI-powered products, and beautiful user experiences.
 
 ---
 
-![Mohsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsinaalima&show_icons=true&theme=radical)## Hi there 👋
+## 🚀 Tech Stack
 
-<!--
-**mohsinaalima/mohsinaalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-Here are some ideas to get you started:
+### Backend
+- Node.js
+- Express.js
+- FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database
+- MongoDB
+- PostgreSQL
+- Prisma
+
+### AI
+- Python
+- LangChain
+- OpenAI
+- Gemini
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
+
+---
+
+## 🌱 Currently Building
+
+- Personal Portfolio
+- InsaafSetu
+- AI Projects
+- DSA With Consistency
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: your@email.com
