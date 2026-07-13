@@ -50,5 +50,5 @@ I'm a B.Tech Computer Science student passionate about building scalable web app
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/mohsina-alima-b43a83395/
+- Email: mohsinaalima2006@gmail.com
